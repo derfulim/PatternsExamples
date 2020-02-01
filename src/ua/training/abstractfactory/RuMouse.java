@@ -1,4 +1,5 @@
-package abstractfactory;
+package ua.training.abstractfactory;
+
 
 public class RuMouse implements Mouse {
     public RuMouse() {

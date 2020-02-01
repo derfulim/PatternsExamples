@@ -1,4 +1,5 @@
-package abstractfactory;
+package ua.training.abstractfactory;
+
 
 public class EnDeviceFactory implements DeviceFactory {
     @Override

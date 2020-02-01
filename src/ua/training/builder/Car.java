@@ -14,8 +14,7 @@ public class Car {
     }
 
     public void setMaxSpeeed(int maxSpeeed) {
-        this.maxSpeeed = maxSpeeed;
-    }
+        this.maxSpeeed = maxSpeeed;}
 
     @Override
     public String toString() {

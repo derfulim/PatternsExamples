@@ -1,4 +1,4 @@
-package abstractfactory;
+package ua.training.abstractfactory;
 
 public interface DeviceFactory {
     Mouse getMouse();

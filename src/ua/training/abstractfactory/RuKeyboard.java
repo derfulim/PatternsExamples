@@ -1,4 +1,5 @@
-package abstractfactory;
+package ua.training.abstractfactory;
+
 
 public class RuKeyboard implements Keyboard {
     public RuKeyboard() {
