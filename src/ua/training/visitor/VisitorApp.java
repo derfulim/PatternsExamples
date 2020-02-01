@@ -112,7 +112,7 @@ class MechanicVisitor implements Visitor {
 
     @Override
     public void visit(WheelElement wheel) {
-        System.out.println("Проверил давление в шинах");
+        System.out.println("Накачал " + wheel.getName() + " колесо");
     }
 
     @Override
