@@ -56,6 +56,7 @@ class SMSLogger extends Logger {
         super(priority);
     }
 
+    @Override
     public void write(String message) {
         System.out.println("SMS: " + message);
     }
